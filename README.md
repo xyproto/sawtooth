@@ -1,2 +1,5 @@
 # sawtooth
-Sawtooth implemented both with particles and as a formula
+
+Sawtooth implemented both a formula and as a simulated particle.
+
+License: BSD-3
